@@ -1,14 +1,24 @@
 <div align="center">
 
-# Hey, I'm Arvind Kumar 👋
+# Hi 👋, I'm Arvind Kumar
 
-### Product Manager × Founder × Developer
+### 🚀 Product Manager × Founder × Developer
 
-Building products from idea to launch.
+**Building Products | Solving Real Problems | Turning Ideas Into Reality**
 
-[LinkedIn](YOUR_LINKEDIN_URL) •
-[Orbies](https://orbies.in) •
-[GitHub](https://github.com/Arvind9966)
+📍 Jaipur, India
+
+</div>
+
+---
+
+## 🌐 Connect with Me
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Arvind9966)
+[![Orbies](https://img.shields.io/badge/Orbies-8B5CF6?style=for-the-badge&logo=googlechrome&logoColor=white)](https://orbies.in)
 
 </div>
 
@@ -16,102 +26,102 @@ Building products from idea to launch.
 
 ## 👨‍💻 About Me
 
-I'm a founder and product builder based in Jaipur, India.
+I'm a **Founder, Product Builder, and Developer** passionate
+about creating technology products that solve real-world problems.
 
-I enjoy turning real-world problems into products, working
-across product strategy, design, development, and launch.
-
-My experience spans consumer applications, SaaS platforms,
-GPS tracking, and IoT solutions.
-
-- 🚀 Founder of Orbies & SecretEye
-- 📱 Building consumer and B2B technology products
-- 🧠 Interested in Product Management, AI & Technology
-- 💻 Working with modern development tools and AI-assisted workflows
-- 🎯 Focused on building products people actually use
+- 🚀 Founder of **Orbies**, a social discovery and volunteering platform
+- 📍 Founder of **SecretEye**, a GPS tracking and IoT solutions company
+- 💻 Building SaaS platforms, consumer applications, and business software
+- 🧠 Interested in Product Management, AI, and emerging technologies
+- 🎯 Experienced in product strategy, development, and go-to-market execution
 
 ---
 
-## 🚀 Products I've Worked On
+## 🚀 Products I've Built
 
-### 🌍 Orbies
-**Social Discovery & Volunteering Platform**
-
-A platform helping people discover nearby connections,
-local experiences, and volunteering opportunities.
-
-**My involvement:**
-- Product strategy and roadmap
-- Feature planning and prioritization
-- User acquisition and feedback
-- Cross-functional team coordination
-- Product launch and iteration
-
-🔗 [Explore Orbies](https://orbies.in)
+| Product | Description | Link |
+|---------|-------------|------|
+| 🌍 Orbies | Social discovery, local experiences & volunteering | [Explore](https://orbies.in) |
+| 📍 SecretEye | GPS tracking & IoT solutions | Product |
+| 💻 SecretEye Labs | Software development & rapid prototyping | Projects |
 
 ---
 
-### 📍 SecretEye
-**GPS Tracking & IoT Solutions**
+## 🛠️ Tech Stack
 
-Vehicle tracking and IoT solutions developed for
-individuals, businesses, and institutions.
+### 💻 Languages & Development
 
-**My involvement:**
-- Product development and planning
-- Customer requirement analysis
-- Hardware and software coordination
-- Business development
-- Product deployment
+<p align="center">
+<img src="https://skillicons.dev/icons?i=js,ts,html,css,react,nodejs,git,github,vscode" />
+</p>
 
----
+### ⚡ Frameworks, Backend & Tools
 
-### 💻 SecretEye Labs
-**Software Development & Rapid Prototyping**
+<p align="center">
+<img src="https://skillicons.dev/icons?i=nextjs,tailwind,supabase,firebase,figma,vercel,postman" />
+</p>
 
-Building web applications, business software,
-and digital solutions for real-world clients.
+### 🧠 Product Management
 
-**Focus Areas:**
-- Web applications
-- SaaS platforms
-- Business automation
-- Rapid prototyping
+<p align="center">
 
----
+![Product Strategy](https://img.shields.io/badge/Product_Strategy-2563EB?style=for-the-badge)
+![Roadmapping](https://img.shields.io/badge/Roadmapping-7C3AED?style=for-the-badge)
+![PRDs](https://img.shields.io/badge/PRDs-0891B2?style=for-the-badge)
+![User Research](https://img.shields.io/badge/User_Research-059669?style=for-the-badge)
+![Agile](https://img.shields.io/badge/Agile-F59E0B?style=for-the-badge)
+![GTM](https://img.shields.io/badge/GTM_Strategy-DC2626?style=for-the-badge)
 
-## 🛠️ Skills & Tools
-
-### Product Management
-Product Strategy • PRDs • Roadmapping •
-User Research • Feature Prioritization •
-GTM Strategy • Agile
-
-### Development
-JavaScript • TypeScript • HTML • CSS •
-React Native • Expo • Supabase
-
-### Tools
-GitHub • Lovable • Figma • Google Analytics
+</p>
 
 ---
 
-## 📂 Featured Projects
+## 📊 GitHub Analytics
 
-Explore my repositories to see projects I've worked on,
-technical experiments, and products under development.
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Arvind9966&show_icons=true&theme=tokyonight&hide_border=true" />
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arvind9966&layout=compact&theme=tokyonight&hide_border=true" />
+
+</div>
 
 ---
 
-## 🤝 Let's Connect
+## 🔥 GitHub Streak
 
-I'm interested in product management, technology,
-startups, and opportunities to build impactful products.
+<div align="center">
 
-📍 Jaipur, India
+<img src="https://streak-stats.demolab.com?user=Arvind9966&theme=tokyonight&hide_border=true" />
 
-💼 [LinkedIn](https://www.linkedin.com/in/arvind-kumar-2aa34724b/)
+</div>
 
-🌐 [Orbies](https://orbies.in)
+---
+
+## 📈 Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Arvind9966&theme=tokyo-night&hide_border=true" />
+
+</div>
+
+---
+
+## 💡 What I'm Focused On
+
+- 📱 Building and improving consumer applications
+- 🚀 Product management and product-led growth
+- 🤖 Exploring AI-powered product development
+- 💻 Developing scalable software solutions
+- 🌍 Creating products with real-world impact
+
+---
+
+<div align="center">
+
+### 🤝 Let's Connect & Build Something Meaningful
+
+**Product Thinking × Technology × Execution**
 
 </div>
